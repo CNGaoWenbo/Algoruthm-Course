@@ -1,7 +1,7 @@
 # Algoruthm-Course
 There are programming assignments for an Algorithm course on a MOOC platform. 
 
-The length of input arrays mostly range from (0,10^5), the number range from (0,10^9). The run time limit is 5.0s.
+The length of input arrays mostly range from (0,10^5), the numbers in arrays range from (0,10^9). The run time limit is 5.0s.
 
 To prevent copying codes to pass the exam and get the certificate, I will not release whihc MOOC platfor or course name.
 
